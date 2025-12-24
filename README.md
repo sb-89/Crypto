@@ -1,3 +1,3 @@
 # Crypto
 
-Fetching BTC price pairs from binance
+Fetching and writing BTC price pairs from binance
